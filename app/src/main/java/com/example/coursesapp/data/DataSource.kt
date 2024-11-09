@@ -1,0 +1,67 @@
+package com.example.coursesapp.data
+
+import com.example.coursesapp.R
+import com.example.coursesapp.model.CourseInfoData
+
+class DataSource {
+    fun loadCoursesList(): List<CourseInfoData> {
+        return listOf(
+            CourseInfoData(R.string.architecture, 58, R.drawable.architecture),
+            CourseInfoData(R.string.crafts, 121, R.drawable.crafts),
+            CourseInfoData(R.string.business, 78, R.drawable.business),
+            CourseInfoData(R.string.culinary, 118, R.drawable.culinary),
+            CourseInfoData(R.string.design, 423, R.drawable.design),
+            CourseInfoData(R.string.fashion, 92, R.drawable.fashion),
+            CourseInfoData(R.string.film, 165, R.drawable.film),
+            CourseInfoData(R.string.gaming, 164, R.drawable.gaming),
+            CourseInfoData(R.string.drawing, 326, R.drawable.drawing),
+            CourseInfoData(R.string.lifestyle, 305, R.drawable.lifestyle),
+            CourseInfoData(R.string.music, 212, R.drawable.music),
+            CourseInfoData(R.string.painting, 172, R.drawable.painting),
+            CourseInfoData(R.string.photography, 321, R.drawable.photography),
+            CourseInfoData(R.string.tech, 118, R.drawable.tech),
+            CourseInfoData(R.string.architecture, 58, R.drawable.architecture),
+            CourseInfoData(R.string.crafts, 121, R.drawable.crafts),
+            CourseInfoData(R.string.business, 78, R.drawable.business),
+            CourseInfoData(R.string.culinary, 118, R.drawable.culinary),
+            CourseInfoData(R.string.design, 423, R.drawable.design),
+            CourseInfoData(R.string.fashion, 92, R.drawable.fashion),
+            CourseInfoData(R.string.film, 165, R.drawable.film),
+            CourseInfoData(R.string.gaming, 164, R.drawable.gaming),
+            CourseInfoData(R.string.drawing, 326, R.drawable.drawing),
+            CourseInfoData(R.string.lifestyle, 305, R.drawable.lifestyle),
+            CourseInfoData(R.string.music, 212, R.drawable.music),
+            CourseInfoData(R.string.painting, 172, R.drawable.painting),
+            CourseInfoData(R.string.photography, 321, R.drawable.photography),
+            CourseInfoData(R.string.tech, 118, R.drawable.tech),
+            CourseInfoData(R.string.architecture, 58, R.drawable.architecture),
+            CourseInfoData(R.string.crafts, 121, R.drawable.crafts),
+            CourseInfoData(R.string.business, 78, R.drawable.business),
+            CourseInfoData(R.string.culinary, 118, R.drawable.culinary),
+            CourseInfoData(R.string.design, 423, R.drawable.design),
+            CourseInfoData(R.string.fashion, 92, R.drawable.fashion),
+            CourseInfoData(R.string.film, 165, R.drawable.film),
+            CourseInfoData(R.string.gaming, 164, R.drawable.gaming),
+            CourseInfoData(R.string.drawing, 326, R.drawable.drawing),
+            CourseInfoData(R.string.lifestyle, 305, R.drawable.lifestyle),
+            CourseInfoData(R.string.music, 212, R.drawable.music),
+            CourseInfoData(R.string.painting, 172, R.drawable.painting),
+            CourseInfoData(R.string.photography, 321, R.drawable.photography),
+            CourseInfoData(R.string.tech, 118, R.drawable.tech),
+            CourseInfoData(R.string.architecture, 58, R.drawable.architecture),
+            CourseInfoData(R.string.crafts, 121, R.drawable.crafts),
+            CourseInfoData(R.string.business, 78, R.drawable.business),
+            CourseInfoData(R.string.culinary, 118, R.drawable.culinary),
+            CourseInfoData(R.string.design, 423, R.drawable.design),
+            CourseInfoData(R.string.fashion, 92, R.drawable.fashion),
+            CourseInfoData(R.string.film, 165, R.drawable.film),
+            CourseInfoData(R.string.gaming, 164, R.drawable.gaming),
+            CourseInfoData(R.string.drawing, 326, R.drawable.drawing),
+            CourseInfoData(R.string.lifestyle, 305, R.drawable.lifestyle),
+            CourseInfoData(R.string.music, 212, R.drawable.music),
+            CourseInfoData(R.string.painting, 172, R.drawable.painting),
+            CourseInfoData(R.string.photography, 321, R.drawable.photography),
+
+            )
+    }
+}
